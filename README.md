@@ -15,17 +15,28 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/asantikari/" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  
-  <a href="https://www.instagram.com/_stoned_traveler_/" alt="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-1877F2?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  
-  <a href="mailto:hi@ashishsantikari.info?Subject=Hello%20There!!&Body=Hi!%0AI%20saw%20your%20profile%20on%20GitHub%0A.">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
-  
+
   <a href="https://blog.ashishsantikari.info">
   <img src="https://img.shields.io/badge/Blog-orange?style=for-the-badge&logo=read-the-docs&logoColor=white"/></a>
    
 </p>  
+
+---
+
+## 🚀 Featured Projects
+
+### [penko-device-dashboard](https://github.com/ashishsantikari/penko-device-dashboard)
+Browser-based industrial IoT dashboard for Penko 1020 weighing indicators. Real-time monitoring via Node-RED PLC integration.
+
+**Live Demo:** [https://penkodashboard.netlify.app/](https://penkodashboard.netlify.app/)  
+**Credentials:** admin / admin
+
+---
+
+### [super-duper-chainsaw](https://github.com/ashishsantikari/super-duper-chainsaw)
+TypeScript utility for reading SMS messages without physical access to devices.
+
+**NPM Package:** [https://www.npmjs.com/package/@ashishsantikari/pbsms](https://www.npmjs.com/package/@ashishsantikari/pbsms)
 
 ---
 
