@@ -40,6 +40,14 @@ TypeScript utility for reading SMS messages without physical access to devices.
 
 ---
 
+
+### [project-nlp-challenge](https://github.com/ashishsantikari/project-nlp-challenge)
+Implementing NLP model with multiple algorithms(LR,NB,SVM) with cross-validation techniques.
+
+**Repo**: https://github.com/ashishsantikari/project-nlp-challenge/blob/main/solution.ipynb
+
+---
+
 <p align="left">
 ⭐🚀 GitHub Stats
 </p>  
